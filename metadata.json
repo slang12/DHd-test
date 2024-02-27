@@ -1,0 +1,55 @@
+{
+  "schema": "https://tboenig.github.io/gt-metadata/schema/2023-10-25/schema.json",
+  "title": "DHd-test",
+  "url": "https://github.com/slang12/DHd-test",
+  "authors": [],
+  "description": "hdjhdkjwhdkljhkjfhweklj",
+  "project-name": "Brüder Gemeine Herrenhut Kurrent-GT",
+  "language": [
+    "deu"
+  ],
+  "production-software": "eScriptorium + Kraken",
+  "script": [
+    "Kurrent"
+  ],
+  "script-type": "only-manuscript",
+  "time": {
+    "notBefore": "1788",
+    "notAfter": "1807"
+  },
+  "hands": {
+    "count": "3",
+    "level": "levelmix"
+  },
+  "license": [
+    {
+      "name": "PublicDomainMark 1.0",
+      "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  ],
+  "gtType": "data_structure_and_text",
+  "format": "Page-XML",
+  "volume": [
+    {
+      "metric": "pages",
+      "count": 800
+    }
+  ],
+  "transcription-guidelines": "OCR-D",
+  "gtvolume": {
+    "TxtRegion": "189",
+    "TextLine": "1964",
+    "Page": "81"
+  },
+  "labelling": [
+    "content-type/corpus",
+    "platform/platform-independent",
+    "content-encoding/structured",
+    "activityDomain/computing/visual/analysisRecognition/text",
+    "activityDomain/computing/visual/analysisRecognition/ocr",
+    "activityDomain/computing/visual/analysisRecognition/layoutAnalysis",
+    "contentOfInterest/visual/text",
+    "granularity/physical/document-related/page",
+    "granularity/physical/document-related/text-line"
+  ]
+}
